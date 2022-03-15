@@ -1,0 +1,2 @@
+# jetbrainsIDESync
+Settings Sync
