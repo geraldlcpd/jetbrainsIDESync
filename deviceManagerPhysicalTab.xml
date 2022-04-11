@@ -4,11 +4,23 @@
       <PhysicalDevice>
         <key>
           <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.1.242:39359" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-04-08T17:09:18.073457Z" />
+        <name value="samsung SM-G975F" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
             <type value="DOMAIN_NAME" />
             <value value="adb-RR8N20305MK-JvKoDy._adb-tls-connect._tcp." />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-06T06:02:05.369641Z" />
+        <lastOnlineTime value="2022-04-08T16:45:26.638896Z" />
         <name value="samsung SM-G975F" />
         <target value="Android 12.0" />
         <api value="31" />
