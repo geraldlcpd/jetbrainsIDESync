@@ -3,7 +3,7 @@
     <property name="created">2022-04-03T20:24:03</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.1.1.22</property>
-    <property name="modified">2022-04-03T20:33:48</property>
+    <property name="modified">2022-05-10T10:56:51</property>
     <property name="originalScheme">High contrast</property>
   </metaInfo>
   <colors>
@@ -73,7 +73,7 @@
     <option name="ScrollBar.Transparent.hoverTrackColor" value="e6e6e65a" />
     <option name="ScrollBar.Transparent.thumbBorderColor" value="0" />
     <option name="ScrollBar.Transparent.thumbColor" value="ffffffbe" />
-    <option name="ScrollBar.Transparent.trackColor" value="e6e6e60" />
+    <option name="ScrollBar.Transparent.trackColor" value="6e6e60" />
     <option name="ScrollBar.background" value="0" />
     <option name="ScrollBar.hoverThumbBorderColor" value="0" />
     <option name="ScrollBar.hoverThumbColor" value="ffffffbe" />
@@ -383,7 +383,7 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="ed94ff" />
+        <option name="FOREGROUND" value="e256ff" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
