@@ -34,6 +34,17 @@
         <target value="Android 9.0" />
         <api value="28" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="localhost:54899" />
+          </Key>
+        </key>
+        <name value="samsung SM-G988N" />
+        <target value="Android 7.1.1" />
+        <api value="25" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
