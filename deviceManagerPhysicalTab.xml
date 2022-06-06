@@ -89,6 +89,17 @@
         <target value="Android 1.0" />
         <api value="1" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="42628710" />
+          </Key>
+        </key>
+        <name value="Xiaomi MI 6" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
