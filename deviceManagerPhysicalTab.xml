@@ -5,10 +5,174 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="192.168.1.242:39359" />
+            <value value="192.168.1.69:43467" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-08T17:09:18.073457Z" />
+        <name value="vivo V2145" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="6a2f7e1b" />
+          </Key>
+        </key>
+        <name value="OPPO CPH2235" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="10.111.5.1:36911" />
+          </Key>
+        </key>
+        <name value="samsung SM-G975F" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.1.232:46797" />
+          </Key>
+        </key>
+        <name value="samsung SM-G975F" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="10.111.5.1:40853" />
+          </Key>
+        </key>
+        <name value="samsung SM-G975F" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="10.111.5.1:42543" />
+          </Key>
+        </key>
+        <name value="samsung SM-G975F" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="localhost:55165" />
+          </Key>
+        </key>
+        <name value="samsung SM-G988N" />
+        <target value="Android 7.1.1" />
+        <api value="25" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="10.111.5.1:45503" />
+          </Key>
+        </key>
+        <name value="samsung SM-G975F" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="127.0.0.1:56742" />
+          </Key>
+        </key>
+        <name value="samsung SM-G988N" />
+        <target value="Android 7.1.1" />
+        <api value="25" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.1.218:37905" />
+          </Key>
+        </key>
+        <name value="samsung SM-G975F" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="RR8N20305MK" />
+          </Key>
+        </key>
+        <name value="samsung SM-G975F" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="42628710" />
+          </Key>
+        </key>
+        <name value="Xiaomi MI 6" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="10.111.5.1:41753" />
+          </Key>
+        </key>
+        <name value="samsung SM-G975F" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="10.111.5.1:45683" />
+          </Key>
+        </key>
+        <name value="samsung SM-G975F" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="10.111.5.1:38409" />
+          </Key>
+        </key>
+        <name value="samsung SM-G975F" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.1.243:37765" />
+          </Key>
+        </key>
         <name value="samsung SM-G975F" />
         <target value="Android 12.0" />
         <api value="31" />
@@ -17,11 +181,43 @@
         <key>
           <Key>
             <type value="DOMAIN_NAME" />
-            <value value="adb-RR8N20305MK-JvKoDy._adb-tls-connect._tcp." />
+            <value value="adb-6a2f7e1b-8Wa3Pk._adb-tls-connect._tcp" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-08T16:45:26.638896Z" />
+        <name value="OPPO CPH2235" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-RR8N20305MK-JvKoDy._adb-tls-connect._tcp" />
+          </Key>
+        </key>
         <name value="samsung SM-G975F" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.1.69:42539" />
+          </Key>
+        </key>
+        <name value="vivo V2145" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="34638716280004D" />
+          </Key>
+        </key>
+        <name value="vivo V2145" />
         <target value="Android 12.0" />
         <api value="31" />
       </PhysicalDevice>
