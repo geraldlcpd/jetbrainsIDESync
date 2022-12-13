@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="34638716280004D" />
+          </Key>
+        </key>
+        <name value="vivo V2145" />
+        <target value="Android Tiramisu" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="192.168.1.69:43467" />
           </Key>
         </key>
@@ -204,17 +215,6 @@
           <Key>
             <type value="SERIAL_NUMBER" />
             <value value="192.168.1.69:42539" />
-          </Key>
-        </key>
-        <name value="vivo V2145" />
-        <target value="Android 12.0" />
-        <api value="androidversion:31:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="34638716280004D" />
           </Key>
         </key>
         <name value="vivo V2145" />
