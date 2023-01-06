@@ -27,17 +27,6 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="6a2f7e1b" />
-          </Key>
-        </key>
-        <name value="OPPO CPH2235" />
-        <target value="Android 12.0" />
-        <api value="androidversion:31:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="10.111.5.1:36911" />
           </Key>
         </key>
@@ -192,17 +181,6 @@
         <key>
           <Key>
             <type value="DOMAIN_NAME" />
-            <value value="adb-6a2f7e1b-8Wa3Pk._adb-tls-connect._tcp" />
-          </Key>
-        </key>
-        <name value="OPPO CPH2235" />
-        <target value="Android 12.0" />
-        <api value="androidversion:31:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="DOMAIN_NAME" />
             <value value="adb-RR8N20305MK-JvKoDy._adb-tls-connect._tcp" />
           </Key>
         </key>
@@ -231,6 +209,17 @@
         <name value="vivo V2145" />
         <target value="Android Tiramisu" />
         <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-6a2f7e1b-8Wa3Pk._adb-tls-connect._tcp" />
+          </Key>
+        </key>
+        <name value="OPPO CPH2235" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
