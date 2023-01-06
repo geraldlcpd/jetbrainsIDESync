@@ -16,34 +16,12 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="192.168.1.69:43467" />
-          </Key>
-        </key>
-        <name value="vivo V2145" />
-        <target value="Android 12.0" />
-        <api value="androidversion:31:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="42628710" />
           </Key>
         </key>
         <name value="Xiaomi MI 6" />
         <target value="Android 9.0" />
         <api value="androidversion:28:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.1.69:42539" />
-          </Key>
-        </key>
-        <name value="vivo V2145" />
-        <target value="Android 12.0" />
-        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
