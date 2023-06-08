@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="search" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
+        <option value="package:com.danamon.tbhandbook\" />
         <option value="search" />
         <option value="RemoteConf" />
         <option value="FirebaseA" />
