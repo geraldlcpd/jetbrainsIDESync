@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="6a2f7e1b" />
+          </Key>
+        </key>
+        <name value="OPPO CPH2235" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="34638716280004D" />
           </Key>
         </key>
@@ -53,17 +64,6 @@
           </Key>
         </key>
         <name value="Microsoft Corporation Subsystem for Android(TM)" />
-        <target value="Android Tiramisu" />
-        <api value="androidversion:33:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="6a2f7e1b" />
-          </Key>
-        </key>
-        <name value="OPPO CPH2235" />
         <target value="Android Tiramisu" />
         <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
